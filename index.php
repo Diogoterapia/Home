@@ -1,34 +1,87 @@
 <!Doctype html>
 
+<html>
 
 <head>
 
-<br><br><br><br><br>
+<style>
 
-<title>Chocolates</title>
+a {
+	color: black;
+}
 
-<h1 style='text-align: center'>CHOCOLATES</h1>
+img {
+  border-radius: 30px;
+}
 
-<container>
+h3 {
+  color: red;
+}
+
+</style>
+
+<title>Home</title>
+
+</head>
+
+<body>
+
+<div style='text-align: center;'>
+
+<img src='logo2.jpeg'>
+
+<hr>
+
+<ht>
+<a href='index.html'>
+Home |
+</a>
+</ht>
+
+<ht>
+<a href='bene.html'>
+| Beneficios |
+</a>
+</ht>
+
+<ht style='text-align: center;'> 
+<a href='atendimento.html'>
+| Atendimento |
+</a>
+</ht>
+
+<ht style='text-align: center;'>
+<a href='contato.html'>
+| Contato
+</a>
+</ht>
+
+</hr>
 
 <div class='row' style='text-align: center'>
 
-<h1>teste</h1>
-<h2>teste</h2>
 
+<a>
+<img src='quickmassage1.jpeg' width='100%'>
+</a>
 
+<a>
+<img src='quickmassage3.jpeg' width='100%'>
+</a>
 
 </div>
-</container>
 
-</head>
-<body>
+<br>
 
+<footer>
 
+<h2><i>Diogo M Aguiar</i></h2>
 
+<h3>TODOS OS DIREITOS RESERVADOS
+</h3>
 
-
+</footer>
 
 </body>
 
-</html5>
+</html>
