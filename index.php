@@ -3,6 +3,10 @@
 <html>
 
 <head>
+	<link rel="icon"
+		type="image/png"
+		href="m.png"
+		/>
 
 <style>
 
