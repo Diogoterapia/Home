@@ -5,7 +5,7 @@
 <head>
 	<link rel="icon"
 		type="image/png"
-		href="m.png"
+		href="M.png"
 		/>
 
 <style>
